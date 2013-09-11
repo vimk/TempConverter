@@ -16,7 +16,7 @@ public class TempConverter
         double fahrenheitTemp;
         String celsiusTemp;
         
-        System.out.println("Eter the temperature in celsius: ");
+        System.out.println("Enter the temperature in celsius: ");
         
         Scanner scan = new Scanner (System.in);
         celsiusTemp = scan.nextLine();
